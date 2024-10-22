@@ -1,0 +1,14 @@
+﻿titled,titled Url
+OMERS' strategic approach to AI offers roadmap for financial leaders,https://www.uipath.com/blog/industry-solutions/omers-ai-success-insights-for-financial-leaders
+Autopilot meets Copilot: Creating AI-powered automation experiences,https://www.uipath.com/blog/product-and-updates/autopilot-copilot-integration
+Optimizing ROI for future strategies with automation and AI,https://www.uipath.com/blog/automation/optimizing-roi-with-automation-ai
+UiPath named a Leader in Gartner® Magic Quadrant™ for six years in a row,https://www.uipath.com/blog/rpa/gartner-magic-quadrant-rpa-report
+Why financial services firms are rewriting their testing strategies,https://www.uipath.com/blog/industry-solutions/financial-services-firms-rewriting-testing-strategies
+Why neurodiverse individuals play a vital role in building inclusive and ethical AI,https://www.uipath.com/blog/ai/neurodiverse-individuals-vital-role-in-building-inclusive-ai
+The 3 key challenges in digital transformation (and how to overcome them),https://www.uipath.com/blog/digital-transformation/how-to-overcome-digital-transformation-challenges
+Intelligent document processing: To build or to buy?,https://www.uipath.com/blog/ai/idp-build-or-buy
+"Build better, faster, stronger automations with UiPath Autopilot™ and generative AI",https://www.uipath.com/blog/product-and-updates/2024-june-release-overview
+DocPath: A fine-tuned large language model for information extraction from documents,https://www.uipath.com/blog/ai/docpath-information-extraction-large-language-model
+Intelligent document processing just got more intelligent: Why financial services firms are pairing IDP with automation,https://www.uipath.com/blog/industry-solutions/financial-services-pairing-idp-and-automation
+Are organizations set up for success in the era of AI-powered supply chains?,https://www.uipath.com/blog/industry-solutions/ai-powered-supply-chains-set-up-for-success
+Putting AI to work across your SAP estate,https://www.uipath.com/blog/automation/putting-ai-to-work-across-sap-estate
